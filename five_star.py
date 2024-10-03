@@ -29,5 +29,8 @@ def in_range(min_number, max_number, number):
 def zobraz_pozdrav(jmeno):
     print('Ahoj', jmeno) 
 
-jm = input("Zadej jmeno: ")
-zobraz_pozdrav(jm)
+#jm = input("Zadej jmeno: ")
+#zobraz_pozdrav(jm)
+
+cislo = 5
+print ('Cislo', cislo, 'je sude')
